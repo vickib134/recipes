@@ -8,3 +8,4 @@
 
 ## Instructions 
 * put one avacado into a bowl
+* remove stone fom avocado
